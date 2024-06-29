@@ -82,6 +82,11 @@ Create a new file and paste the ErrorHandlingDemo contract code.
 Compile the contract.
 Deploy the contract to a selected environment (JavaScript VM, Injected Web3, etc.).
 Interact with the deployed contract via the Remix interface.
+
+### Author
+Prakhar Bhardwaj
+
+
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
